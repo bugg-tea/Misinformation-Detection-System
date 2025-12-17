@@ -4,6 +4,7 @@ A **Multimodal misinformation detection system** that verifies news claims using
 
 This project is designed to be **academically strong**, **practically deployable**, and **resource‑conscious**, making it suitable for whatsapp fake messages detection
 
+(NOTE:- app.py is actually google collab code downloadeed in .py formate)
 ---
 ### Example 1: TRUE Claim
 
